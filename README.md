@@ -1,1 +1,2 @@
 # python-challenge-1
+# The menu.py program allows users to order items from various menus. The menus are stored into am empty dictionary, with the costs of the each chosen menu item and quantity of each ordered item stored as well. Once the user has finished ordering a summary of the chosen menu items with their quantities and prices will be displayed, as well as the total sum of their order. 
